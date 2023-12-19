@@ -1,3 +1,5 @@
+package exo1p1;
+
 public class Triplet<T> {
     private T premier;
     private T second;
