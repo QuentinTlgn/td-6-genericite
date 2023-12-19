@@ -14,6 +14,5 @@ public class Exo3p2<T> {
         if(rnd.nextBoolean())
             res = obj1;
         return res;
-        
     }
 }
