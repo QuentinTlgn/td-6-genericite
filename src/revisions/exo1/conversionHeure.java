@@ -1,4 +1,4 @@
-package revisions;
+package revisions.exo1;
 
 public class conversionHeure {
 
