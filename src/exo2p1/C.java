@@ -6,6 +6,7 @@ class C < T > {
     T[] t2;
     public static T inf;
     public static int n;
+
     void f() {
         x = new T();
         t2 = t1;
